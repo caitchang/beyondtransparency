@@ -17,15 +17,27 @@ permalink: "/part-2/a-journalists-take-on-open-data/"
 
 Journalists are bad at math. No, really. We’re really bad at math. The joke goes that we all went into media because we’re unable to figure out the proper tip on a restaurant check.
 
+新聞記者的數學都不好。真的，我們這行的數學真的很差，人家都笑我們會進入傳媒，是因為我們連餐廳小費都搞不懂要給多少。
+
 Nonetheless, data is not foreign to reporters. We regularly comb financial reports to pump out quarterly earnings or interpret annual municipal budgets. At times, governments, nonprofits, and researchers are kind enough to do the heavy-lifting for us, providing executive summaries, bullet points, and numbers, broken out into figures that can easily be turned around on deadline. In larger newsrooms, there are teams that specialize in computer-assisted reporting (CAR). They may work with graphics and application teams to crunch numbers and visually display them, utilizing interactive graphics, maps, and charts.
+
+只不過，數據對報導人員來說並不陌生。我們經常在繁鎖的財經報導中，挖掘出季後盈收、解釋年度地方預算。有時候，因為這些沈重工作，政府機關、非營利單位和研究機構，對我們都很仁慈，提供的執行綱要、重點項目、數字，才能輕鬆的在截止日前趕出圖表。在大型新聞媒體中，會有專業團隊利用電腦輔助新聞報導（Computer-Assisted Reporting, CAR），有時會和一些圖表軟體團隊，利用圖像呈現艱深的數字，或者互動式圖表、地圖和曲線圖。
 
 I was lucky enough to have worked at places like the *New York Times* and the *Wall Street Journal*, which had graphics editors and special projects managers who coordinated with reporters and editors on long-term projects. These were often the stories that would run on page one and were given additional resources from photo and graphics departments.
 
+我非常幸運曾在像《紐約時報》和《華盛頓郵報》單位服務過，他們的記者與編輯，都有長期配合的圖表編輯、和特別專案經理。經常能在頭版出現的新聞，大部份都是搭配圖表部門所提供的資訊。
+
 Such stories are the news analysis items, features that would be referred to in-house as a “tick tock.” While the story carries the byline of one or two reporters, there is often a large team of contributors, some of whom appear with production credits on interactive graphics that are produced and paired with the piece.
+
+而這類的新聞故事是隸屬新聞分析類型，是新聞部內特別「緊急」的項目；通常在新聞內容中，由一或兩個記者署名以示負責，而負責互動式圖表項目的代表，通常是以一大群製作團隊共同署名。
 
 News analysis items allow media organizations to break away from the day-to-day rush of breaking news and concentrate on a story to extrapolate the information and get to the underlying reasons for a policy being enacted. These types of stories examine relationships over a period of time to unearth new information or contextualize data that, at first glance, seems too obtuse to the general public.
 
+新聞媒體的組織，會另外將新聞分析項目和一天當中的重要突發新聞區隔開來，專注於推敲事件的資訊，或者了解政策制定的背後原由。這類型的報導，需要花上很長一段時間，檢視事件的關聯性，並挖掘出新資訊、或者數據資料的脈絡關係，而這些資訊在一開始，大眾是會需要花上一段時間才能了解的。
+
 While recounting personal and dramatic narratives is always a focus, obtaining documents and records is just as important. Big data projects are nothing new to newsrooms. Some of the more renowned ones would end up winning awards and prompting government action or public outcry. The *Sun Sentinel* won a Pulitzer Prize for public service this year for its series on speeding cops, which utilized a database of transponders to determine that many cops were averaging speeds around or in excess of 120mph, posing a significant safety risk (The Pulitzer Prizes, 2013; *Sun Sentinel*, 2012)
+
+因為個人或引人注目的敍事分析報導總是焦點，那麼取得文件和記錄也同等重要。巨量資料專案在新聞部裡，並不是什麼新鮮事。有些知名的專案最後甚至獲獎、促進政府行動或者引起公眾的強烈反應。《太陽先驅報》就因為關於持續一系列「警察取締超速違規」報導贏得2013年普立茲獎（註）──利用轉發器資料庫，測量警員的平均速度、或者當時速超過120公哩，造成的嚴重安全危機。（註：2012年《太陽先驅報》報導，獲得2013年普立茲獎。）
 
 Investigative and special projects teams at news outlets can analyze data that is extrapolated from computers or with pencil and paper. While many news outlets are coping with diminishing staffs, reporters and editors have adapted, utilizing workshops and conferences to learn data and digital skills to aid in their reporting. At WBEZ, the Chicago-based public radio station where I work as a data reporter and web producer, we’ve invited some of these individuals to train and educate our news staff on working with new tools, analytics, and large data.
 
