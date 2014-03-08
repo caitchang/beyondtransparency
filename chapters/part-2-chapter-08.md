@@ -41,15 +41,27 @@ While recounting personal and dramatic narratives is always a focus, obtaining d
 
 Investigative and special projects teams at news outlets can analyze data that is extrapolated from computers or with pencil and paper. While many news outlets are coping with diminishing staffs, reporters and editors have adapted, utilizing workshops and conferences to learn data and digital skills to aid in their reporting. At WBEZ, the Chicago-based public radio station where I work as a data reporter and web producer, we’ve invited some of these individuals to train and educate our news staff on working with new tools, analytics, and large data.
 
+新聞組織中的調查報導、或特別專案團隊，只需要透過電腦或紙筆就能做資料分析。當許多新聞組織忙著裁員，記者和編輯們早就習慣透過工作坊或大大小小的會議，來學習使用收據和數位技能來做為播報工作的輔助工具。當我早在芝加哥公共電台WBEZ當資料記者和網站企畫專員時，我們就邀請那些具有數據分析能力的記者或編輯，來訓練我們的新聞同仁，利用新工具來分析大數據。
+
 News organizations (if they have the money) will sometimes employ researchers and database analysts who assist reporters in making sense of government reports, budgets, and almost everything that is obtained painfully via Freedom of Information Act (FOIA) requests. More often than not, reporters will wait tirelessly for a FOIA request, only to get a PDF or paper file, instead of an electronic file, with blacked out portions of police reports, instead of vivid accounts—and sometimes an outright denial, which requires an exhausting appeal.
+
+通常大型新聞機構（假設他們有這個預算）雇有研究人員和資料庫分析師來協助記者更了解政府報告書、預算，以及任何有關「資訊公開法」（FOIA）的痛苦要求；最令人感到痛苦的，是得無止盡的等待通過資訊公開法，最後卻只能取得警方提供部份黑漆漆的PDF檔案或紙本資料，而不是電子檔案或明確的記錄──而通常筋疲力盡的等待，換來只有全然的拒絕。
 
 That’s just for the hard-to-get information, though. If a reporter needs a quick figure or the name of a city vendor, it requires calling a public affairs officer, who has to track down an employee to look up said information. It’s absurdly cumbersome and makes it harder to have fleshed out details on deadline, much to the chagrin of stressed journalists.
 
+不過那只對那些比較難取得的資訊而言。一個記者如果只是需要簡單的人像、或者城裡攤販的名稱，他得打電話給公眾事務人員、找到負責的職員查詢需要的資料；而這樣不合理的繁鎖過程，更難讓有壓大的記者在截稿前，補充細節資訊。非常令人懊惱。
+
 Fortunately, the access to some of that information is now changing. I experienced firsthand the effects of this shift on journalism when I moved back to Chicago just as the city’s open data movement was taking off. As a bit of background, I’m a Chicago native. Born on the West Side, I resided in the largely quiet Northwest Side neighborhood of Jefferson Park, attending Catholic school on the city’s North Side in the Lake View neighborhood.
+
+幸運的是，現在要獲取那些部份資訊的途徑正在改變。當我回到芝加哥後，開放資料的運動正在展開，我是第一批在新聞業經歷過這種轉換的效應。透露一點我的背景，我是芝加哥當地人、在西城出生、住在西北城寂靜的傑弗遜公園社區、在北城的湖景社區上天主教會學校。
 
 I attended Columbia College in 2002, majoring in journalism with a concentration on news reporting and writing for newspapers. I was an intern web producer at Chicago’s CBS affiliate in 2004, a reporting intern at the Chicago *RedEye* in 2005, and a multimedia intern at the *Chicago Tribune* before graduating in 2006. After graduating, I had an internship as a web producer at the *New York Times*, and in 2007, became a senior web editor for the *New York Daily News*.
 
+2002年進入哥倫比亞大學，主修新聞學，專攻新聞播報和新聞寫作；2004年，加入芝加哥電視台當網站企畫實習專員；2005年，在芝加哥的紅眼媒體做實習播報員；2006年畢業前，則是在芝加哥先峰報的多媒體部實習。畢業後，我在紐約時報當網站企畫實習專員，然後在2007年，我成為紐約日報的資深網路編輯。
+
 Eventually, I found my way to the *Wall Street Journal* (WSJ), where my responsibilities varied from producing web content, managing the homepage, and growing the paper’s online news presence over the weekends. My responsibilities eventually evolved to include the production of mobile applications.
+
+最後，我在華爾街日報找到了出路──負責部份多樣職務，從企畫網路內容、經營網站首頁、以及得讓週末的線上新聞表現成長，職責甚至也納進了行動應用軟體的製作。
 
 In the summer of 2010, I was leading a lot of the production for the WSJ’s iPad and mobile apps and helped test and launch the international editions for the paper’s Asia and Europe iPad editions. Working at the WSJ was a lot of fun. The paper evolved at a fast pace to catch up from being a paper that focused on long-form, “day after” news to one that had to keep pace with financial news competitors that put a premium on the speed of proprietary information.
 
